@@ -1,0 +1,79 @@
+header {
+    .contact {
+
+        background-color: #007878;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    ul {
+        display: flex;
+
+    }
+
+    .contact1 {
+        display: flex;
+    }
+
+    .test1 {
+        display: flex;
+        color: white;
+    }
+
+    ul {
+        .lix {
+            border-right: 2px solid white;
+            padding: 5px;
+        }
+
+        .lix1 {
+            padding: 5px;
+        }
+    }
+
+    ul {
+        list-style: none;
+    }
+
+    a {
+        list-style: none;
+        text-decoration: none;
+        color: white;
+    }
+
+    .navbar {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .navin {
+        margin-top: 20px;
+        display: flex;
+    }
+    //taskk
+    .task1{
+        margin-right:  10px;
+        display: flex;
+    }
+.task2{
+    margin-right:  10px;
+        display: flex;
+
+}
+.task3{
+    margin-right:  10px;
+        display: flex;
+
+
+}
+    .tap2 {
+        margin-right: 124px;
+        margin-top: 2px;
+    }
+//formm
+    .tap1 {
+        margin-left: 24px;
+        
+    }
+
+}

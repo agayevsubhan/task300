@@ -1,0 +1,57 @@
+header .contact {
+  background-color: #007878;
+  display: flex;
+  justify-content: space-around;
+}
+header ul {
+  display: flex;
+}
+header .contact1 {
+  display: flex;
+}
+header .test1 {
+  display: flex;
+  color: white;
+}
+header ul .lix {
+  border-right: 2px solid white;
+  padding: 5px;
+}
+header ul .lix1 {
+  padding: 5px;
+}
+header ul {
+  list-style: none;
+}
+header a {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+header .navbar {
+  display: flex;
+  justify-content: space-around;
+}
+header .navin {
+  margin-top: 20px;
+  display: flex;
+}
+header .task1 {
+  margin-right: 10px;
+  display: flex;
+}
+header .task2 {
+  margin-right: 10px;
+  display: flex;
+}
+header .task3 {
+  margin-right: 10px;
+  display: flex;
+}
+header .tap2 {
+  margin-right: 124px;
+  margin-top: 2px;
+}
+header .tap1 {
+  margin-left: 24px;
+}/*# sourceMappingURL=main.css.map */
